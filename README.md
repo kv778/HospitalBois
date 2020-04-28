@@ -1,1 +1,1 @@
-Hospital login and information retrieval application built using Dart and Flutter. No BS.
+Hospital login and information retrieval application built using Dart and Flutter.
